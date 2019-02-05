@@ -1,0 +1,1 @@
+0000000000000000000000000000000000000000 864210aa88db999d49b7bfec3d3c03bda18864a8 SanNare <sandipnr98@yahoo.com> 1546537790 +0530	fetch --progress sel4proj --tags +refs/heads/*:refs/remotes/sel4proj/* +refs/heads/fix-32bit:refs/remotes/sel4proj/fix-32bit: storing head

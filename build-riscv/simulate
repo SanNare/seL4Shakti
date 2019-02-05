@@ -1,0 +1,1 @@
+qemu-system-riscv64 -machine spike_v1.10 -nographic -s -serial mon:stdio -m size=4095M -kernel images/sel4test-driver-image-riscv-spike

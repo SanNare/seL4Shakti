@@ -1,0 +1,1 @@
+--srcdir=/home/sandip/Desktop/test/seL/projects/musllibc --prefix=/home/sandip/Desktop/test/seL/build-riscv/projects/musllibc/build-temp/stage  --target=riscv --enable-warnings --disable-shared --enable-static

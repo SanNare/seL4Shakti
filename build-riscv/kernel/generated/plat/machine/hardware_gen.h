@@ -1,0 +1,8 @@
+#ifndef _HOME_SANDIP_DESKTOP_TEST_SEL_BUILD_RISCV_KERNEL_GENERATED_PLAT_MACHINE_HARDWARE_GEN_H
+#define _HOME_SANDIP_DESKTOP_TEST_SEL_BUILD_RISCV_KERNEL_GENERATED_PLAT_MACHINE_HARDWARE_GEN_H
+
+#include <assert.h>
+#include <config.h>
+#include <stdint.h>
+#include <util.h>
+#endif

@@ -1,0 +1,7 @@
+kernel
+projects/musllibc
+projects/seL4_libs
+projects/sel4test
+projects/util_libs
+tools/riscv-pk
+tools/seL4
